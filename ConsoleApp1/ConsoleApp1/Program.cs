@@ -16,7 +16,8 @@ namespace ConsoleApp1
             //Om talGiss är mindre än slumpTal
             //  Skriv ut "För litet" och låt användaren gissa igen
             //   Addera 1 till antalGiss
-            //Om talGiss är lika med slumpTal 
+            //Om talGiss är lika med slumpTal
+            //  Addera 1 till antalGiss
             //  Skriv ut "Rätt! Antal gissningar: antalGiss" 
             //  Stoppa programmet
 
